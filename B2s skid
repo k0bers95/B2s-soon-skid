@@ -3978,7 +3978,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "troll sky"
+scriptbyblue2spooky.Text = "skybox"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -4771,7 +4771,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "Skybox 2"
+scriptbyblue2spooky.Text = "Skybox k0"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -5043,7 +5043,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end
 	end
-	Sky("118939541671382")
+	Sky("109310403521078")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -5331,7 +5331,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end 
 	end
-	spam("118939541671382")
+	spam("109310403521078")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -9249,7 +9249,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "c00lkidd skybox"
+scriptbyblue2spooky.Text = "altk95 skybox"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -9521,7 +9521,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end
 	end
-	Sky("158118263")
+	Sky("95942320821892")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -9531,7 +9531,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "c00lkidd decal spam"
+scriptbyblue2spooky.Text = "altk95 decal spam"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -9809,7 +9809,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end 
 	end
-	spam("158118263")
+	spam("95942320821892")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -9819,7 +9819,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "k00pkidd skybox"
+scriptbyblue2spooky.Text = "hecka k95 skybox"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -10091,7 +10091,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end
 	end
-	Sky("99499320073307")
+	Sky("119218954041093")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -10101,7 +10101,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "k00pkidd decal spam"
+scriptbyblue2spooky.Text = "hecka k95 decal spam"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -10379,7 +10379,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end 
 	end
-	spam("99499320073307")
+	spam("119218954041093")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -11919,7 +11919,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "thomas skybox"
+scriptbyblue2spooky.Text = "teamk95 skybox"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -12191,7 +12191,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end
 	end
-	Sky("92730331106137")
+	Sky("116168053743977")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -12201,7 +12201,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "thomas decal spam"
+scriptbyblue2spooky.Text = "teamk95 decal spam"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -12480,7 +12480,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end 
 	end
-	spam("92730331106137")
+	spam("136051423069436")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -25119,17 +25119,17 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 	local ReplicatedStorage = game:GetService("ReplicatedStorage")
 	local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
 
-	RequestCommand:InvokeServer(";createteam red Blue2spooky")
-	RequestCommand:InvokeServer(";createteam blue Blue2spooky")
-	RequestCommand:InvokeServer(";createteam db Blue2spooky")
-	RequestCommand:InvokeServer(";createteam green Blue2spooky")
-	RequestCommand:InvokeServer(";createteam dg Blue2spooky")
-	RequestCommand:InvokeServer(";createteam pk Blue2spooky")
-	RequestCommand:InvokeServer(";createteam p Blue2spooky")
-	RequestCommand:InvokeServer(";createteam y Blue2spooky")
-	RequestCommand:InvokeServer(";createteam o Blue2spooky")
-	RequestCommand:InvokeServer(";createteam black Blue2spooky")
-	RequestCommand:InvokeServer(";createteam white Blue2spooky")
+	RequestCommand:InvokeServer(";createteam red k0bers95")
+	RequestCommand:InvokeServer(";createteam blue k0bers95")
+	RequestCommand:InvokeServer(";createteam db k0bers95")
+	RequestCommand:InvokeServer(";createteam green k0bers95")
+	RequestCommand:InvokeServer(";createteam dg k0bers95")
+	RequestCommand:InvokeServer(";createteam pk k0bers95")
+	RequestCommand:InvokeServer(";createteam p k0bers95")
+	RequestCommand:InvokeServer(";createteam y k0bers95")
+	RequestCommand:InvokeServer(";createteam o k0bers95")
+	RequestCommand:InvokeServer(";createteam black k0bers95")
+	RequestCommand:InvokeServer(";createteam white k0bers95")
 
 end)
 
@@ -25150,8 +25150,8 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 	local ReplicatedStorage = game:GetService("ReplicatedStorage")
 	local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
 
-	RequestCommand:InvokeServer(";serverMessage blue2spooky is here to destroy")
-	RequestCommand:InvokeServer(";serverHint team blue2spooky join today!")
+	RequestCommand:InvokeServer(";serverMessage k0bers95 is here to destroy")
+	RequestCommand:InvokeServer(";serverHint team k0bers95 join today!")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -25171,7 +25171,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 	local ReplicatedStorage = game:GetService("ReplicatedStorage")
 	local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
 
-	RequestCommand:InvokeServer(";serverMessage blue2spooky is here to destroy")
-	RequestCommand:InvokeServer(";serverHint team blue2spooky join today!")
+	RequestCommand:InvokeServer(";serverMessage team k0bers95 is here to destroy")
+	RequestCommand:InvokeServer(";serverHint team k0bers95 join today!")
 end)
 
