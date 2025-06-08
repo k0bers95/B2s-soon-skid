@@ -12781,7 +12781,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "skybox 3"
+scriptbyblue2spooky.Text = "tk95 and tck"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -13053,7 +13053,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end
 	end
-	Sky("103714890337815")
+	Sky("127017882764561")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
@@ -13063,7 +13063,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 1, 1)
 scriptbyblue2spooky.Font = Enum.Font.JosefinSans
-scriptbyblue2spooky.Text = "decal spam 3"
+scriptbyblue2spooky.Text = "tk95 and tck"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -13341,7 +13341,7 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
 			end
 		end 
 	end
-	spam("103714890337815")
+	spam("127017882764561")
 end)
 
 local scriptbyblue2spooky = Instance.new("TextButton")
